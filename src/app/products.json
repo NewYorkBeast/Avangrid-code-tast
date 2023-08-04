@@ -1,0 +1,32 @@
+[  
+  {  
+    "id": 1,  
+    "name": "Headphones",  
+    "price": "$10",  
+    "categoryId": "Accessories"  
+  },  
+  {  
+    "id": 2,  
+    "name": "Iphone",  
+    "price": "$100",  
+    "categoryId": "Cellphone"  
+  },  
+  {  
+    "id": 3,  
+    "name": "Dryer",  
+    "price": "$300",  
+    "categoryId": "Appliances"  
+  },  
+  {  
+    "id": 4,  
+    "name": "Doll",  
+    "price": "$5",  
+    "categoryId": "Toys"  
+  },  
+  {  
+    "id": 5,  
+    "name": "Vinyl Record",  
+    "price": "$25",  
+    "categoryId": "Music"  
+  }  
+] 
